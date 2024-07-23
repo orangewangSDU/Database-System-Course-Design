@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/OIP-C.jpg</file>
+        <file>image/校长.jpg</file>
+        <file>image/C417DD313FDE8680D2BF96ED608_7379B2DB_AF3ED.jpg</file>
+        <file>image/R-C (1).jpg</file>
+        <file>image/R-C.jpg</file>
+        <file>image/R-C (2).jpg</file>
+        <file>image/21.jpg</file>
+        <file>image/42fbb8fc-fba8-4583-ad90-78814560637f.jpg</file>
+        <file>image/qt_zh_CN.qm</file>
+        <file>image/blue.css</file>
+    </qresource>
+</RCC>
